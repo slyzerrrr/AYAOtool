@@ -1,40 +1,4 @@
-<p align="center">
-   <a href="https://t.me/AYAOtoolsupport">Telegram</a> ・ <a href="https://AYAOtool.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/AYAO.chop">Reviews</a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/slyzerrrr/AYAOtool?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/slyzerrrr/AYAOtool-tools?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/slyzerrrr/AYAOtool-Tools?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/slyzerrrr/AYAOtool-Tools?color=a80505">
-</p>
-
-<p>
-  
-  - Developed in <strong>Python</strong>, by <a href="https://blackhatfrench.shop/loxy0dev">Loxy0dev</a><br>
-  - Tool in <strong>English</strong>.<br>
-  - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
-  - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
-  - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
-  - <strong>Frequently updated</strong>.<br>
-  - <strong>Free</strong> for everyone.<br>
-  - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
-  <br><br>
-</p>
-
-<h1 align="center">Tools</h1>
-
-<p align="center">
-  <img src="Img/AYAOtool.png" width="49%"> 
-  <img src="Img/AYAOtool-2.png" width="49%"> 
-  <img src="Img/AYAOtool-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
-  <br><br>
-</p>
-
-<h1 align="center">Features</h1>
-<p>
-   
 ```
 ┌── ⚒️ -AYAOtool
 │   ├── Info
