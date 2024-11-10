@@ -1,7 +1,5 @@
-<h1 align="center">Multi-Tools</h1>
-
 <p align="center">
-   <a href="https://t.me/AYAOtoolsupport">Telegram</a> ・ <a href="https://AYAOtool.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/AYAOtoolsupport">Telegram</a> ・ <a href="https://AYAOtool.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/AYAO.chop">Reviews</a>
 </p>
 
 <p align="center">
