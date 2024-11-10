@@ -1,4 +1,4 @@
-# Copyright (c) RedTiger (https://blackhatfrench.com)
+# Copyright (c) AYAOtool (https://blackhatfrench.com)
 # See the file 'LICENSE' for copying permission
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------|
 # EN: 

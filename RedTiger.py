@@ -1,4 +1,4 @@
-# Copyright (c) RedTiger (https://redtiger.shop)
+# Copyright (c) AYAOtool (https://blackhatfrench.com)
 # See the file 'LICENSE' for copying permission
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------|
 # EN: 
@@ -25,7 +25,7 @@ def Update():
       if new_version != version_tool:
          colorama.init()
          print(f"{BEFORE + current_time_hour() + AFTER} {INFO} Please install the new version of the tool: {white + version_tool + red} -> {white + new_version}")
-         webbrowser.open(github_tool)
+         webbrowser.open(AYAOtool)
          input(f"{BEFORE + current_time_hour() + AFTER} {INFO} Enter to still use this version -> {reset}")
          popup_version = f"{red}New Version: {white + version_tool + red} -> {white + new_version}"
          colorama.deinit()
@@ -289,17 +289,16 @@ def Menu():
       menu_number = "1"
 
    banner = f"""{popup_version}                                                                                      
-                             ██▀███  ▓█████ ▓█████▄    ▄▄▄█████▓ ██▓  ▄████ ▓█████  ██▀███
-                            ▓██ ▒ ██▒▓█   ▀ ▒██▀ ██▌   ▓  ██▒ ▓▒▓██▒ ██▒ ▀█▒▓█   ▀ ▓██ ▒ ██▒
-                            ▓██ ░▄█ ▒▒███   ░██   █▌   ▒ ▓██░ ▒░▒██▒▒██░▄▄▄░▒███   ▓██ ░▄█ ▒
-                            ▒██▀▀█▄  ▒▓█  ▄ ░▓█▄   ▌   ░ ▓██▓ ░ ░██░░▓█  ██▓▒▓█  ▄ ▒██▀▀█▄
-                            ░██▓ ▒██▒░▒████▒░▒████▓      ▒██▒ ░ ░██░░▒▓███▀▒░▒████▒░██▓ ▒██▒
-                            ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒▒▓  ▒      ▒ ░░   ░▓   ░▒   ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
-                              ░▒ ░ ▒░ ░ ░  ░ ░ ▒  ▒        ░     ▒ ░  ░   ░  ░ ░  ░  ░▒ ░ ▒░
-                             ░░   ░    ░    ░ ░  ░      ░       ▒ ░░ ░   ░    ░     ░░   ░
-                              ░        ░  ░   ░                 ░        ░    ░  ░   ░      
-
-                                           {white}{github_tool}
+____/\\\\\\\\\____        __/\\\________/\\\_        _____/\\\\\\\\\____        _______/\\\\\______        
+ ___/\\\\\\\\\\\\\__        _\///\\\____/\\\/__        ___/\\\\\\\\\\\\\__        _____/\\\///\\\____       
+  __/\\\/////////\\\_        ___\///\\\/\\\/____        __/\\\/////////\\\_        ___/\\\/__\///\\\__      
+   _\/\\\_______\/\\\_        _____\///\\\/______        _\/\\\_______\/\\\_        __/\\\______\//\\\_     
+    _\/\\\\\\\\\\\\\\\_        _______\/\\\_______        _\/\\\\\\\\\\\\\\\_        _\/\\\_______\/\\\_    
+     _\/\\\/////////\\\_        _______\/\\\_______        _\/\\\/////////\\\_        _\//\\\______/\\\__   
+      _\/\\\_______\/\\\_        _______\/\\\_______        _\/\\\_______\/\\\_        __\///\\\__/\\\____  
+       _\/\\\_______\/\\\_        _______\/\\\_______        _\/\\\_______\/\\\_        ____\///\\\\\/_____ 
+        _\///________\///__        _______\///________        _\///________\///__        ______\/////_______
+                                           {green}{github_tool}
 {menu}"""
    return banner, menu_number
 
@@ -313,7 +312,7 @@ while True:
       Title(f"Menu {menu_number}")
       Slow(MainColor(banner))
 
-      choice = input(MainColor(f""" ┌──({white}{username_pc}@redtiger)─{red}[{white}~/RedTiger/Menu-{menu_number}]
+      choice = input(MainColor(f""" ┌──({red}{username_pc}@AYAO)─{red}[{white}~/AYAOtool/Menu-{menu_number}]
  └─{white}$ {reset}"""))
 
       if choice in ['N', 'n', 'NEXT', 'Next', 'next']:
